@@ -5,6 +5,7 @@
       <router-link to="/jobs">Jobs</router-link> 
       <!-- <router-link to="/user">User</router-link> |
       <router-link to="/item">Item</router-link> -->
+      - Nice Vue
   </div>
 </template>
 
